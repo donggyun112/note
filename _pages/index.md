@@ -5,17 +5,21 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
+# Welcome to My Digital Garden! 🌱
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
   Take a look at <span style="font-weight: bold">[[intro]]</span> to get started on your exploration.
 </p>
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+Hello! I'm a student at 42seoul, and this site is my digital space for sharing:
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
+- 🖥️ My 42 curriculum projects
+- 🚀 Personal coding projects
+- 📝 Learning notes and personal insights
 
-<strong>Recently updated notes</strong>
+Here, you can follow my learning journey and explore my experiences and insights into coding and technology.
+
+## Recently Updated Notes
 
 <ul>
   {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
@@ -25,6 +29,10 @@ The easiest way to get started is to read this [step-by-step guide explaining ho
     </li>
   {% endfor %}
 </ul>
+
+This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+
+Feel free to explore and don't hesitate to reach out if you have any questions about my projects or notes!
 
 <style>
   .wrapper {
