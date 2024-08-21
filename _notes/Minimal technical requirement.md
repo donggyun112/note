@@ -1,5 +1,5 @@
 ---
-title: qwe
+title: Minimal technical requirement
 ---
 
 # TEST
