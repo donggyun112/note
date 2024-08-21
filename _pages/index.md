@@ -8,7 +8,7 @@ permalink: /
 # Welcome to My Digital Garden! 🌱
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[intro | test]]</span> to get started on your exploration.
+  Take a look at <span style="font-weight: bold">[[intro|test]]</span> to get started on your exploration.
 </p>
 
 Hello! I'm a student at 42seoul, and this site is my digital space for sharing:
